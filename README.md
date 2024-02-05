@@ -1,8 +1,5 @@
-# Visual Studio Code
+# Node
 
-## Get started with Visual Studio Code
-
-Go to [https://code.visualstudio.com/](https://code.visualstudio.com/) and click on "Download".
-
-Once downloaded, open the downloaded file and click through the installer to get Visual Studio Code installed on your computer (the default settings are fine). Click "Next" until you get to the last screen, and then click finished.
-
+Go to [https://nodejs.org/](https://nodejs.org/en) and click on the green "20.11.0 LTS" button to download the Node installer. Once download, click on the downloaded file to start the installation process. Click through the installer until you reach the end. \
+\
+To verify installation, search for "Node" in the Windows search bar, and make sure that node opens up when you click it.

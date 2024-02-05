@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Visual Studio Code](README.md)
-* [Node](node.md)
+## Tools
+
+* [Node](README.md)
+* [Visual Studio Code](tools/visual-studio-code.md)
