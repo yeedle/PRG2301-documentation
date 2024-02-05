@@ -27,4 +27,10 @@ const studentsNamedStern = students.filter((student) => student.endsWith("Stern"
 
 
 
-Similarly, we can use the `map` array method to transform
+Similarly, we can use the `map` array method to transform the values in an array
+
+```javascript
+const students = ["chaim", "moshe", "yankel", "duvid"]
+const upperCaseStudents = students.map((student) => student.toUpperCase())
+// upperCaseStudents = ["CHIAM", "MOSHE", "YANKEL", "DUVID"
+```

@@ -23,6 +23,8 @@ We also covered "methods" (functions that you can call on values) for strings an
 * [`"string".replace`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/String/replace) replaces a substring with a different string
 * [`"string".includes`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/String/includes) returns `true` if a substring is found within a string
 * [`"string".trim`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/String/trim) removes whitespace from the start and end of a string
+* [`"string".toUpperCase`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/String/toUpperCase) transforms the string to ALL UPPER CASE
+* [`"string".toLowerCase`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/String/toLowerCase) transforms a STRING to all lower case
 * [`[1, 2, 3].filter`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Array/filter) filters an array with a filter function
 * [`[1, 2, 3].map`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Array/map) transforms each element in an array with a function
 * [`[1, 2, 3].forEach`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Array/forEach) like a for loop, but the body of the for loop is a function
