@@ -8,3 +8,4 @@
 ## Javascript Fundamentals
 
 * [Functions](javascript-fundamentals/functions.md)
+* [Page](javascript-fundamentals/page.md)
