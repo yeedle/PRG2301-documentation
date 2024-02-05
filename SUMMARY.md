@@ -8,4 +8,5 @@
 ## Javascript Fundamentals
 
 * [Defining Functions](javascript-fundamentals/defining-functions.md)
-* [Page](javascript-fundamentals/page.md)
+* [Calling Functions](javascript-fundamentals/calling-functions.md)
+* [Built-in Functions](javascript-fundamentals/built-in-functions.md)
