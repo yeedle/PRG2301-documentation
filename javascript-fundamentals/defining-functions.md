@@ -1,12 +1,8 @@
-# Functions
+# Defining Functions
 
-Javascript functions let us organize code, name them, and make them reusable.&#x20;
+Functions let us organize code, name them, and make them reusable.&#x20;
 
-
-
-There are two syntaxes for functions. The basic syntax is as follows:\
-\
-
+There are two syntaxes for functions. The basic syntax is as follows:
 
 <pre class="language-javascript"><code class="lang-javascript">/**
  * <a data-footnote-ref href="#user-content-fn-1">A simple function to add two numbers.</a>
@@ -16,9 +12,23 @@ There are two syntaxes for functions. The basic syntax is as follows:\
  */
 <a data-footnote-ref href="#user-content-fn-2">function</a> <a data-footnote-ref href="#user-content-fn-3">addNumbers</a>(<a data-footnote-ref href="#user-content-fn-4">num1, num2</a>) {
   // body of the function goes in here
-  <a data-footnote-ref href="#user-content-fn-5">return</a> paramter1 + paramter2
+  <a data-footnote-ref href="#user-content-fn-5">return</a> num1 + num2
 }
 </code></pre>
+
+The other syntax, which is called "function expression" syntax (or fat arrow, anonymous syntax, callback, or lambda) is as follows:
+
+```javascript
+const addNumbers = (num1, num2) => {
+  return num1 + num2
+}
+```
+
+When we use a function expression, and there's only one statement in it, we can skip the curly braces and the `return` keyword:
+
+```javascript
+const addNumbers = (num1, num2) => num1 + num2
+```
 
 [^1]: This comment style is called a "JSDoc" and using it  automatically creates documentation for your function which Visual Studio Code will show you when you use it.
 

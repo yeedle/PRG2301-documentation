@@ -7,5 +7,5 @@
 
 ## Javascript Fundamentals
 
-* [Functions](javascript-fundamentals/functions.md)
+* [Defining Functions](javascript-fundamentals/defining-functions.md)
 * [Page](javascript-fundamentals/page.md)
