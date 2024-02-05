@@ -15,7 +15,7 @@ Javascript comes with a lot of pre-define functions. Here are the ones we covere
 * [`console.time`](https://developer.mozilla.org/en-US/docs/Web/API/console/time\_static) starts a timer
 * [`console.timeEnd`](https://developer.mozilla.org/en-US/docs/Web/API/console/timeend\_static) ends the timer and prints the total amount of time between start and end in milliseconds
 
-We also covered "methods" (function that you can call on values) for strings and arrays
+We also covered "methods" (functions that you can call on values) for strings and arrays
 
 * [`"string".charAt`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/String/charAt) returns the character at an index
 * [`"string".startsWith`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/String/startsWith) returns `true` if a string starts with a value
