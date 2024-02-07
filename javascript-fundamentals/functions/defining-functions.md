@@ -1,7 +1,5 @@
 # Defining Functions
 
-Functions let us organize code, name them, and make them reusable.&#x20;
-
 There are two syntaxes for functions. The basic syntax is as follows:
 
 <pre class="language-javascript"><code class="lang-javascript">/**
