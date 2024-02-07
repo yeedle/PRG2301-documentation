@@ -48,7 +48,7 @@ It can become a bit annoying! With destructuring we can do the following:
 
 ```javascript
 function printReport({ firstName, lastName, age }) {
-   console.log(`${firstName} ${lastName} is {age} years old`);
+   console.log(`${firstName} ${lastName} is ${age} years old`);
 }
 
 printReport(person);
