@@ -16,6 +16,7 @@
 * [Iteration (loops)](javascript-fundamentals/iteration-loops.md)
 * [Importing and exporting functions](javascript-fundamentals/importing-and-exporting-functions.md)
 * [Third-Party Libraries](javascript-fundamentals/third-party-libraries.md)
+* [JSON](javascript-fundamentals/json.md)
 
 ***
 
