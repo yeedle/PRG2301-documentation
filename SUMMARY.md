@@ -1,7 +1,14 @@
 # Table of contents
 
 * [Midterm Review](README.md)
-  * [Midterm Review Resource Sheet](midterm-review/midterm-review-resource-sheet.md)
+  * [Basic JS](midterm-review/basic-js.md)
+  * [NodeJS](midterm-review/nodejs.md)
+  * [SQL](midterm-review/sql.md)
+  * [Advanced JS](midterm-review/advanced-js.md)
+  * [HTML & CSS](midterm-review/html-and-css.md)
+  * [React](midterm-review/react.md)
+  * [Git, JSON, Markdown](midterm-review/git-json-markdown.md)
+  * [HTTP](midterm-review/http.md)
 
 ## Tools
 
