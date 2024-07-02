@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Midterm Review](README.md)
-  * [Basic JS](midterm-review/basic-js.md)
+  * [Basic JS](midterm-review/midterm-review-resource-sheet.md)
   * [NodeJS](midterm-review/nodejs.md)
   * [SQL](midterm-review/sql.md)
   * [Advanced JS](midterm-review/advanced-js.md)
