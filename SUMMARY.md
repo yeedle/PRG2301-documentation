@@ -1,8 +1,11 @@
 # Table of contents
 
+* [Midterm Review](README.md)
+  * [Midterm Review Resource Sheet](midterm-review/midterm-review-resource-sheet.md)
+
 ## Tools
 
-* [Node](README.md)
+* [Node](<README (1).md>)
 * [Visual Studio Code](tools/visual-studio-code.md)
 
 ## Javascript Fundamentals
